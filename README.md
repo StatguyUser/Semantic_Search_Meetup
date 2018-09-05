@@ -1,2 +1,1 @@
-#Combining NLP and elasticsearch for building semantic search application
-Slides for the meetup
+Slides for the meetup "Combining NLP and elasticsearch for building semantic search application"
